@@ -1,9 +1,9 @@
 {
-  "name": "bel-dashboard",
+  "name": "bel",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Meghai.github.io/bel-dashboard",
+  "homepage": "https://Meghai.github.io/bel/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
