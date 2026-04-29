@@ -1,9 +1,9 @@
 {
-  "name": "bel",
+  "name": "BEL",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Meghai.github.io/bel/",
+  "homepage": "https://Meghai.github.io/BEL/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
